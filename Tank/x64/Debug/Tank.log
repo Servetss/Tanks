@@ -1,0 +1,3 @@
+﻿  Tank.cpp
+c:\users\servets\source\repos\tank\tank\tank.cpp(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\servets\source\repos\tank\tank\tank.cpp(20): error C3867: 'sf::Window::isOpen': non-standard syntax; use '&' to create a pointer to member

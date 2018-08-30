@@ -1,0 +1,21 @@
+﻿  Tank.cpp
+c:\users\servets\videos\source\repos\tank\tank\tank.cpp(49): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\servets\videos\source\repos\tank\tank\tank.cpp(291): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\servets\videos\source\repos\tank\tank\tank.cpp(307): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\servets\videos\source\repos\tank\tank\tank.cpp(322): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\servets\videos\source\repos\tank\tank\tank.cpp(326): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\servets\videos\source\repos\tank\tank\tank.cpp(330): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\servets\videos\source\repos\tank\tank\tank.cpp(334): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\servets\videos\source\repos\tank\tank\tank.cpp(699): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\servets\videos\source\repos\tank\tank\tank.cpp(703): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\servets\videos\source\repos\tank\tank\tank.cpp(707): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\servets\videos\source\repos\tank\tank\tank.cpp(711): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\servets\videos\source\repos\tank\tank\tank.cpp(91): warning C4101: 'targetS': unreferenced local variable
+c:\users\servets\videos\source\repos\tank\tank\tank.cpp(91): warning C4101: 'targetF': unreferenced local variable
+c:\users\servets\videos\source\repos\tank\tank\tank.cpp(487): warning C4101: 'put': unreferenced local variable
+  Generating code
+  1 of 71 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Tank.vcxproj -> C:\Users\Servets\Videos\source\repos\Tank\x64\Release\Tank.exe

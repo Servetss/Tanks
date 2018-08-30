@@ -1,0 +1,3 @@
+﻿  Tank.cpp
+c:\users\servets\source\repos\tank\tank\tank.cpp(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Tank.vcxproj -> C:\Users\Servets\source\repos\Tank\Debug\Tank.exe
